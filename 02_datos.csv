@@ -1,0 +1,18 @@
+#Datos de Campeonato de Futbol
+#nombre_equipo,partidos_jugados,ganados,empatados,perdidos,goles_favor,goles_contra,gol_diferencia,puntos
+L.D.U,15,11,2,2,29,13,16,35
+IDV,15,9,5,1,36,22,14,32
+Barcelona,15,8,5,2,23,13,10,29
+Católica,14,8,4,2,28,13,15,28
+Aucas,15,7,2,6,26,23,3,23
+Técnico U,14,6,4,4,17,15,2,22
+Macará,14,5,6,3,17,16,1,21
+Delfín,14,5,3,6,16,17,-1,18
+Mushuc Runa,15,5,3,7,16,22,-6,18
+Olmedo,15,5,2,8,26,29,-3,17
+Emelec,14,4,4,6,19,18,1,16
+Guayaquil C,14,4,3,7,16,23,-7,15
+Nacional,15,3,5,7,16,24,-8,14
+Portoviejo,15,3,4,8,19,30,-11,13
+Orense,15,1,7,7,15,27,-12,10
+Dep. Cuenca,15,1,5,9,16,30,-14,8
